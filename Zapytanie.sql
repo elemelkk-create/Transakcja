@@ -1,4 +1,4 @@
-use twoja_baza;
+use projekt_kl1;
 
 drop table if exists wyniki_ubezpieczenia;
 
